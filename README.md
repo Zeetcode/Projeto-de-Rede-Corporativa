@@ -93,22 +93,13 @@ Cada departamento foi segmentado logicamente por meio de VLANs, garantindo maior
 Projeto-Rede-Corporativa/
 │
 ├── README.md
-├── Topologia/
-│   └── topologia_rede.png
-│
-├── Configuracoes/
-│   ├── switches.txt
-│   ├── roteador.txt
-│   └── access_points.txt
-│
-├── Documentacao/
-│   └── documentacao_tecnica.pdf
-│
-├── PacketTracer/
-│   └── projeto_rede_empresa.pkt
-│
+├── Projeto_rede_empresa.pkt
+├── Topologia_rede.png
+├── Documentacao_tecnica.pdf
 └── Imagens/
-    └── screenshots/
+    ├── Teste_ping.png
+    ├── Teste_acl.png
+    └── Vlans.png
 ```
 
 ---
