@@ -93,13 +93,24 @@ Cada departamento foi segmentado logicamente por meio de VLANs, garantindo maior
 Projeto-Rede-Corporativa/
 │
 ├── README.md
-├── Projeto_rede_empresa.pkt
-├── Topologia_rede.png
-├── Documentacao_tecnica.pdf
+├── projeto_rede_empresa.pkt
+│
+├── Documentação/
+│   └── Documentacao_Tecnica.pdf
+│
 └── Imagens/
-    ├── Teste_ping.png
-    ├── Teste_acl.png
-    └── Vlans.png
+    ├── Topologia_Rede.png
+    ├── Sub-Redes.png
+    ├── Conf_DHCP.png
+    ├── Conf_RT_Central.png
+    ├── Conf_SW1.png
+    ├── Conf_SW2.png
+    ├── Conf_SW_WIFI.png
+    ├── Conf_vlans10,20.png
+    ├── Conf_vlans30,40.png
+    ├── Teste_Acls.png
+    ├── Teste_Conectividade_DP_TI.png
+    └── Teste_Web.png
 ```
 
 ---
